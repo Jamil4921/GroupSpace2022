@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupSpace2022", "GroupSpace2022.csproj", "{2DB58166-2CDC-4959-BA4D-B7BD8F56C16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DB58166-2CDC-4959-BA4D-B7BD8F56C16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DB58166-2CDC-4959-BA4D-B7BD8F56C16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DB58166-2CDC-4959-BA4D-B7BD8F56C16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DB58166-2CDC-4959-BA4D-B7BD8F56C16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6EDD07F-D6EF-4FA1-9DDA-7E73399A9E57}
+	EndGlobalSection
+EndGlobal
